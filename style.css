@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  transition: 0.3s ease;
+}
+
+button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+#chat {
+  margin-top: 20px;
+}
+
+canvas {
+  margin-top: 30px;
+  background-color: #111;
+  border-radius: 10px;
+}
